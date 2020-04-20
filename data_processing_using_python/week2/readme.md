@@ -1,12 +1,6 @@
 # Crawler
-scraper class
+multi site scraper class (really just OOP practice)
 ------------------------------
 ![](https://ebhoel.files.wordpress.com/2014/11/img_2693e.jpg)
 
--------------------------
 
-
-### crawl.py 
-`webscraper(url, proxies)`
-- takes in url and optional proxies arg
-- trys to make connection and returns the raw html of text if 
